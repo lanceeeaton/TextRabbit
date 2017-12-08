@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Text Rabbit</string>
+    <string name="btnPlaytext">Play</string>
+    <string name="btnStandardText">Standard</string>
+    <string name="btnClassicText">Classic</string>
+    <string name="btnHighscoresText">Highscores</string>
+    <string name="btnSettingsText">Settings</string>
+    <string name="lblHighscores">Highscores</string>
+    <string name="lblSettings">Settings</string>
+    <string name="checkBoxMusic">Music</string>
+    <string name="lblLanguage">Language</string>
+    <string name="checkBoxSoundText">Sound Effects</string>
+    <string name="_9_wxyz">9 wxyz</string>
+    <string name="_3_def">3 def</string>
+    <string name="_7_pqrs">7 pqrs</string>
+    <string name="_8_tuv">8 tuv</string>
+    <string name="_6_mno">6 mno</string>
+    <string name="_4_ghi">4 ghi</string>
+    <string name="_5_jkl">5 jkl</string>
+    <string name="_1">1</string>
+    <string name="_2_abc">2 abc</string>
+    <string name="standard_highscores">Standard Highscores</string>
+    <string name="classic_highscores">Classic Highscores</string>
+    <string name="_btn1">1 ⌫</string>
+</resources>
